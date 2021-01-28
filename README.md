@@ -12,13 +12,22 @@ Examples of functionality of the webshop:
 
 ---
 
+
+## Requirements
+- gulp
+- scss
+- gulp csso
+- gulp rename
+- gulp watch
+
 ## Installation
+- Clone the repo and install all neccessary dependencies
+- Use following command to install:
 
-Make a new folder
+```
+npm i
 
-1. Clone repo and start 'index.html'
-2. run npm install
-3. run npm start
+```
 
 ## Naming conventions
 
@@ -41,6 +50,10 @@ Make a new folder
 ## Project structure
 
 - ProjectFolder/ _-Project root/_ index file are found here
+- html/ _-Html folder/_-All html files are found here
+- img/ _-Images folder/_-All images are found here
 - css/ _-Css folder/_-All css-styling are found here
 - scss/ _-Scss folder/_-All scss-styling are found here
 - js/ _-Javascript folder/_-All JavaScript logic are found here
+- jquery-ui/ _-jquery-ui folder/_-All jQuery files are found here
+
