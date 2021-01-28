@@ -21,7 +21,7 @@ Examples of functionality of the webshop:
 - gulp watch
 
 ## Installation
-- Clone the repo and install all neccessary dependecies
+- Clone the repo and install all neccessary dependencies
 - Use following command to install:
 
 ```
