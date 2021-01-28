@@ -49,7 +49,7 @@ npm i
 
 ## Project structure
 
-- ProjectFolder/ _-Project root/_ index and html files are found here
+- ProjectFolder/ _-Project root/_ index file are found here
 - html/ _-Html folder/_-All html files are found here
 - img/ _-Images folder/_-All images are found here
 - css/ _-Css folder/_-All css-styling are found here
