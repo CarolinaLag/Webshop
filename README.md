@@ -40,7 +40,7 @@ Make a new folder
 
 ## Project structure
 
-- ProjectFolder/ _-Project root/_ index and html files are found here
+- ProjectFolder/ _-Project root/_ index file are found here
 - css/ _-Css folder/_-All css-styling are found here
 - scss/ _-Scss folder/_-All scss-styling are found here
 - js/ _-Javascript folder/_-All JavaScript logic are found here
