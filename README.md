@@ -12,13 +12,9 @@ Examples of functionality of the webshop:
 
 ---
 
+## Demo
 
-## Requirements
-- gulp
-- scss
-- gulp csso
-- gulp rename
-- gulp watch
+https://watchout-webshop.netlify.app/
 
 ## Installation
 - Clone the repo and install all neccessary dependencies
