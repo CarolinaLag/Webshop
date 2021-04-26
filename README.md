@@ -10,6 +10,8 @@ Examples of functionality of the webshop:
 - Store the information in the shopping cart through extended objects, not only one product
 - Decrease/increase the amount of products in the shoppingcart and checkoutpage
 
+<img width="521" alt="Picture of the WatchOut Webshop Landingpage" src="https://user-images.githubusercontent.com/69104443/116053210-b7837a00-a67a-11eb-83b5-370347ddfe39.png" />
+
 ---
 
 ## Demo
@@ -33,8 +35,6 @@ npm i
 - When naming variables use **camelCase**
 
 * Eg `let newProduct = new Product(productInput);`
-
-### Functions
 
 - Function names should use _camelCase_
 
