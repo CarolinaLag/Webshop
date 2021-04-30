@@ -2,6 +2,12 @@
 
 _A webshop made with jQuery and jQuery UI as a school assignment, no focus on the payment functionalities_
 
+## Demo
+
+https://watchout-webshop.netlify.app/
+
+---
+
 Examples of functionality of the webshop:
 
 - Add products to a shopping cart
@@ -13,10 +19,6 @@ Examples of functionality of the webshop:
 <img width="521" alt="Picture of the WatchOut Webshop Landingpage" src="https://user-images.githubusercontent.com/69104443/116053210-b7837a00-a67a-11eb-83b5-370347ddfe39.png" />
 
 ---
-
-## Demo
-
-https://watchout-webshop.netlify.app/
 
 ## Installation
 - Clone the repo and install all neccessary dependencies
